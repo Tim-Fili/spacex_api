@@ -1,0 +1,112 @@
+,Flight Number,Mission Name,Rocket Name,Engine,Launch Year,Payload,Orbit,Landing Success,Mission Success
+0,1,FalconSat,Falcon 1,Merlin A,2006,Satellite,LEO,,False
+1,2,DemoSat,Falcon 1,Merlin A,2007,Satellite,LEO,,False
+2,3,Trailblazer,Falcon 1,Merlin C,2008,Satellite,LEO,,False
+3,4,RatSat,Falcon 1,Merlin C,2008,Satellite,LEO,,True
+4,5,RazakSat,Falcon 1,Merlin C,2009,Satellite,LEO,,True
+5,6,Falcon 9 Test Flight,Falcon 9,v1.0,2010,Dragon Boilerplate,LEO,,True
+6,7,COTS 1,Falcon 9,v1.0,2010,Dragon 1.0,LEO,,True
+7,8,COTS 2,Falcon 9,v1.0,2012,Dragon 1.0,LEO,,True
+8,9,CRS-1,Falcon 9,v1.0,2012,Dragon 1.0,ISS,,True
+9,10,CRS-2,Falcon 9,v1.0,2013,Dragon 1.0,ISS,,True
+10,11,CASSIOPE,Falcon 9,v1.1,2013,Satellite,PO,False,True
+11,12,SES-8,Falcon 9,v1.1,2013,Satellite,GTO,,True
+12,13,Thaicom 6,Falcon 9,v1.1,2014,Satellite,GTO,,True
+13,14,CRS-3,Falcon 9,v1.1,2014,Dragon 1.1,ISS,True,True
+14,15,OG-2 Mission 1,Falcon 9,v1.1,2014,Satellite,LEO,True,True
+15,16,AsiaSat 8,Falcon 9,v1.1,2014,Satellite,GTO,,True
+16,17,AsiaSat 6,Falcon 9,v1.1,2014,Satellite,GTO,,True
+17,18,CRS-4,Falcon 9,v1.1,2014,Dragon 1.1,ISS,False,True
+18,19,CRS-5,Falcon 9,v1.1,2015,Dragon 1.1,ISS,False,True
+19,20,DSCOVR,Falcon 9,v1.1,2015,Satellite,ES-L1,True,True
+20,21,ABS-3A / Eutelsat 115W B,Falcon 9,v1.1,2015,Satellite,GTO,,True
+21,22,CRS-6,Falcon 9,v1.1,2015,Dragon 1.1,ISS,False,True
+22,23,TürkmenÄlem 52°E / MonacoSAT,Falcon 9,v1.1,2015,Satellite,GTO,,True
+23,24,CRS-7,Falcon 9,v1.1,2015,Dragon 1.1,ISS,,False
+24,25,OG-2 Mission 2,Falcon 9,FT,2015,Satellite,LEO,True,True
+25,26,Jason 3,Falcon 9,v1.1,2016,Satellite,PO,False,True
+26,27,SES-9,Falcon 9,FT,2016,Satellite,GTO,False,True
+27,28,CRS-8,Falcon 9,FT,2016,Dragon 1.1,ISS,True,True
+28,29,JCSAT-2B,Falcon 9,FT,2016,Satellite,GTO,True,True
+29,30,Thaicom 8,Falcon 9,FT,2016,Satellite,GTO,True,True
+30,31,ABS-2A / Eutelsat 117W B,Falcon 9,FT,2016,Satellite,GTO,False,True
+31,32,CRS-9,Falcon 9,FT,2016,Dragon 1.1,ISS,True,True
+32,33,JCSAT-16,Falcon 9,FT,2016,Satellite,GTO,True,True
+33,34,Amos-6,Falcon 9,FT,2016,Satellite,GTO,,False
+34,35,Iridium NEXT Mission 1,Falcon 9,FT,2017,Satellite,PO,True,True
+35,36,CRS-10,Falcon 9,FT,2017,Dragon 1.1,ISS,True,True
+36,37,EchoStar 23,Falcon 9,FT,2017,Satellite,GTO,,True
+37,38,SES-10,Falcon 9,FT,2017,Satellite,GTO,True,True
+38,39,NROL-76,Falcon 9,FT,2017,Satellite,LEO,True,True
+39,40,Inmarsat-5 F4,Falcon 9,FT,2017,Satellite,GTO,,True
+40,41,CRS-11,Falcon 9,FT,2017,Dragon 1.1,ISS,True,True
+41,42,BulgariaSat-1,Falcon 9,FT,2017,Satellite,GTO,True,True
+42,43,Iridium NEXT Mission 2,Falcon 9,FT,2017,Satellite,PO,True,True
+43,44,Intelsat 35e,Falcon 9,FT,2017,Satellite,GTO,,True
+44,45,CRS-12,Falcon 9,FT,2017,Dragon 1.1,ISS,True,True
+45,46,FormoSat-5,Falcon 9,FT,2017,Satellite,SSO,True,True
+46,47,Boeing X-37B OTV-5,Falcon 9,FT,2017,Satellite,LEO,True,True
+47,48,Iridium NEXT Mission 3,Falcon 9,FT,2017,Satellite,PO,True,True
+48,49,SES-11 / Echostar 105,Falcon 9,FT,2017,Satellite,GTO,True,True
+49,50,KoreaSat 5A,Falcon 9,FT,2017,Satellite,GTO,True,True
+50,51,CRS-13,Falcon 9,FT,2017,Dragon 1.1,ISS,True,True
+51,52,Iridium NEXT Mission 4,Falcon 9,FT,2017,Satellite,PO,True,True
+52,53,ZUMA,Falcon 9,FT,2018,Satellite,LEO,True,True
+53,54,SES-16 / GovSat-1,Falcon 9,FT,2018,Satellite,GTO,True,True
+54,55,Falcon Heavy Test Flight,Falcon Heavy,FT,2018,Satellite,HCO,False,True
+55,56,Paz / Starlink Demo,Falcon 9,FT,2018,Satellite,SSO,,True
+56,57,Hispasat 30W-6,Falcon 9,FT,2018,Satellite,GTO,,True
+57,58,Iridium NEXT Mission 5,Falcon 9,FT,2018,Satellite,PO,,True
+58,59,CRS-14,Falcon 9,FT,2018,Dragon 1.1,ISS,,True
+59,60,TESS,Falcon 9,FT,2018,Satellite,HEO,True,True
+60,61,Bangabandhu-1,Falcon 9,FT,2018,Satellite,GTO,True,True
+61,62,Iridium NEXT Mission 6,Falcon 9,FT,2018,Satellite,PO,,True
+62,63,SES-12,Falcon 9,FT,2018,Satellite,GTO,,True
+63,64,CRS-15,Falcon 9,FT,2018,Dragon 1.1,ISS,,True
+64,65,Telstar 19V,Falcon 9,FT,2018,Satellite,GTO,True,True
+65,66,Iridium NEXT Mission 7,Falcon 9,FT,2018,Satellite,PO,True,True
+66,67,Merah Putih,Falcon 9,FT,2018,Satellite,GTO,True,True
+67,68,Telstar 18V,Falcon 9,FT,2018,Satellite,GTO,True,True
+68,69,SAOCOM 1A,Falcon 9,FT,2018,Satellite,SSO,True,True
+69,70,Es’hail 2,Falcon 9,FT,2018,Satellite,GTO,True,True
+70,71,SSO-A,Falcon 9,FT,2018,Satellite,SSO,True,True
+71,72,CRS-16,Falcon 9,FT,2018,Dragon 1.1,ISS,False,True
+72,73,GPS III SV01,Falcon 9,FT,2018,Satellite,MEO,,True
+73,74,Iridium NEXT Mission 8,Falcon 9,FT,2019,Satellite,PO,True,True
+74,75,Nusantara Satu (PSN-6) / S5 / Beresheet,Falcon 9,FT,2019,Satellite,GTO,True,True
+75,76,CCtCap Demo Mission 1,Falcon 9,FT,2019,Crew Dragon,ISS,True,True
+76,77,ArabSat 6A,Falcon Heavy,FT,2019,Satellite,GTO,True,True
+77,78,CRS-17,Falcon 9,FT,2019,Dragon 1.1,ISS,True,True
+78,79,Starlink v0.9,Falcon 9,FT,2019,Satellite,VLEO,True,True
+79,80,RADARSAT Constellation,Falcon 9,FT,2019,Satellite,SSO,True,True
+80,81,STP-2,Falcon Heavy,FT,2019,Satellite,MEO,False,True
+81,82,CRS-18,Falcon 9,FT,2019,Dragon 1.1,ISS,True,True
+82,83,Amos-17,Falcon 9,FT,2019,Satellite,GTO,,True
+83,84,Starlink 1,Falcon 9,FT,2019,Satellite,VLEO,True,True
+84,85,CRS-19,Falcon 9,FT,2019,Dragon 1.1,ISS,True,True
+85,86,JCSat 18 / Kacific 1,Falcon 9,FT,2019,Satellite,GTO,True,True
+86,87,Starlink 2,Falcon 9,FT,2020,Satellite,VLEO,True,True
+87,88,Crew Dragon In Flight Abort Test,Falcon 9,FT,2020,Crew Dragon,SO,,True
+88,89,Starlink 3,Falcon 9,FT,2020,Satellite,VLEO,True,True
+89,90,Starlink 4,Falcon 9,FT,2020,Satellite,VLEO,False,True
+90,91,CRS-20,Falcon 9,FT,2020,Dragon 1.1,ISS,True,True
+91,92,Starlink 5,Falcon 9,FT,2020,Satellite,VLEO,False,True
+92,93,Starlink 6,Falcon 9,FT,2020,Satellite,VLEO,True,True
+93,94,CCtCap Demo Mission 2,Falcon 9,FT,2020,Crew Dragon,ISS,True,True
+94,95,Starlink 7,Falcon 9,FT,2020,Satellite,VLEO,True,True
+95,96,Starlink-8 & SkySat 16-18,Falcon 9,FT,2020,Satellite,VLEO,True,True
+96,97,GPS III SV03 (Columbus),Falcon 9,FT,2020,Satellite,MEO,True,True
+97,98,ANASIS-II,Falcon 9,FT,2020,Satellite,GEO,True,True
+98,99,Starlink-9 (v1.0) & BlackSky Global 5-6,Falcon 9,FT,2020,Satellite,VLEO,True,True
+99,100,Starlink-10 (v1.0) & SkySat 19-21,Falcon 9,FT,2020,Satellite,VLEO,True,True
+100,101,"SAOCOM 1B, GNOMES-1, Tyvak-0172",Falcon 9,FT,2020,Satellite,SSO,True,True
+101,102,Starlink-11 (v1.0),Falcon 9,FT,2020,Satellite,VLEO,True,True
+102,103,Starlink-12 (v1.0),Falcon 9,FT,2020,Satellite,VLEO,True,
+103,104,Starlink-13 (v1.0),Falcon 9,FT,2020,Satellite,VLEO,True,True
+104,105,Starlink-14 (v1.0),Falcon 9,FT,2020,Satellite,VLEO,True,True
+105,106,GPS III SV04 (Sacagawea),Falcon 9,FT,2020,Satellite,MEO,True,True
+106,107,Crew-1,Falcon 9,FT,2020,Crew Dragon,ISS,True,True
+107,108,Sentinel-6 Michael Freilich,Falcon 9,FT,2020,Satellite,PO,True,True
+108,109,Starlink-15 (v1.0),Falcon 9,FT,2020,Satellite,VLEO,True,True
+109,110,CRS-21,Falcon 9,FT,2020,Dragon 2.0,ISS,,
+110,110,SXM-7,Falcon 9,FT,2020,Satellite,GTO,,
