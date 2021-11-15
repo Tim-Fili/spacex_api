@@ -20,13 +20,18 @@ This Project has three feature incorporated to it.
 
 #### 2. Clone Repo to local machine
 
-#### 3. Terminal/Command Line; 
+#### 3. Terminal/Command Line: 
 * Navigate to root folder
 * Run ```jupyter notebook```
-#### 4. In Jupyter Notebook; 
+
+#### 4. In Jupyter Notebook: 
 * Find ``spacex_api.ipynb``
 * Open ``spacex_api.ipynb``
 * "RUN" each code cell
+* "Run" Last code cell *(will open a new web browser with a Tableau dashboard)*
+
+#### 5. Tableau Public Dashboard:
+* Explore the data visualizations
 
 #### Source: 
 https://api.spacexdata.com/v3/launches
